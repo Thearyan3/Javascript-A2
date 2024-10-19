@@ -49,8 +49,8 @@
 // Question No. 3 - Take three numbers and print the largest among them. 
 // function Max_out_of_three(){
 // let A = 2;
-// let B = 2;
-// let C = 2;
+// let B = 5;
+// let C = 4;
 // if(A > B){
 //         if(A > C){
 //                 console.log(A);
