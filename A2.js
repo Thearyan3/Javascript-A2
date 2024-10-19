@@ -25,7 +25,7 @@
 // }
 // findGradesFunction();
 
-// Question No. 2 - Find the value from tthe table corresponding to an input character and return it. 
+// Question No. 2 - Find the value from the table corresponding to an input character and return it. 
 // function getValue(){
 // let C = "P";
 // if(C === "P" || C === "p"){
@@ -74,9 +74,9 @@
 
 // Question No. 4 - find and return second smallest integer among the three integers. 
 // function findSecondSmallest(){
-// let X = 9;
-// let Y = 23;
-// let Z = 2;
+// let X = 2;
+// let Y = 9;
+// let Z = 23;
 // if(X > Y){
 //         if(X > Z){
 //                 console.log(Z);
